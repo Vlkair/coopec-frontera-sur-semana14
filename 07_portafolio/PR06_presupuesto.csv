@@ -1,0 +1,4 @@
+anio,capex,cambio,contingencia,opex_min,opex_max,total_min,total_max,referencia_inversion,margen_escenario,opex_acumulado_min,opex_acumulado_max
+1,60000,6000.0,9900.0,0.0,10000.0,75900.0,85900.0,99200.0,13300.0,0.0,10000.0
+2,20000,2000.0,3300.0,0.0,10000.0,25300.0,35300.0,99200.0,63900.0,0.0,20000.0
+3,0,0.0,0.0,0.0,10000.0,0.0,10000.0,99200.0,89200.0,0.0,30000.0
