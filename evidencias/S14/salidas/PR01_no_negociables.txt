@@ -1,0 +1,8 @@
+codigo  no_negociable                                norma_referencial                               estado_plazo
+ PR-01          False                                                  Sin obligación identificada en los insumos
+ PR-02          False                                                  Sin obligación identificada en los insumos
+ PR-03          False                                                  Sin obligación identificada en los insumos
+ PR-04          False Resolución SBS 504-2021 (referencia de la ficha)      Alcance y plazo pendientes de validar
+ PR-05          False                                                  Sin obligación identificada en los insumos
+ PR-06          False                                                  Sin obligación identificada en los insumos
+No negociables con plazo documentado: 0

@@ -1,0 +1,19 @@
+Nivel 0: PR-01, PR-02, PR-03, PR-04, PR-05, PR-06
+Año 1, trimestre 1: 1 proyecto(s)
+Año 1, trimestre 2: 0 proyecto(s)
+Año 1, trimestre 3: 0 proyecto(s)
+Año 1, trimestre 4: 0 proyecto(s)
+Año 2, trimestre 1: 1 proyecto(s)
+Año 2, trimestre 2: 0 proyecto(s)
+Año 2, trimestre 3: 0 proyecto(s)
+Año 2, trimestre 4: 0 proyecto(s)
+Año 3, trimestre 1: 0 proyecto(s)
+Año 3, trimestre 2: 0 proyecto(s)
+Año 3, trimestre 3: 0 proyecto(s)
+Año 3, trimestre 4: 0 proyecto(s)
+Dependencias registradas y rotas: 0 y 0
+Las dependencias técnicas y fechas normativas quedan pendientes de confirmación.
+         ola  anio  semestre                                                      hito
+ Fundacional     1         1 Procedimiento aprobado y simulacro de reporte documentado
+Habilitación     2         1               Oferta y términos evaluados antes de firmar
+ Explotación     3         1      Revisar beneficios y reconsiderar cartera postergada
